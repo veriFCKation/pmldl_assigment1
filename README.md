@@ -2,7 +2,6 @@
 
 ## Assignment 1 - Text De-toxification
 
-# Shchekina Ksenia, BS21-AI-01
 Text Detoxification Task is a process of transforming the text with toxic style into the text with the same meaning but with neutral style.
 
 > Formal definition of text detoxification task can be found in [Text Detoxification using Large Pre-trained Neural Models by Dale et al., page 14](https://arxiv.org/abs/2109.08914)
